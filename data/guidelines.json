@@ -1,0 +1,74 @@
+[
+    {
+        "id": "medrec-1",
+        "topic": "medication reconciliation",
+        "source": "AHRQ Care Transitions / Medication Reconciliation",
+        "text": "Reconcile discharge medicines against home medicines with a pharmacist, checking for duplicates, stopped medicines, and dose changes, and give the patient a clear updated medicine list."
+    },
+    {
+        "id": "pcp-1",
+        "topic": "primary care follow-up",
+        "source": "AHRQ Care Transitions",
+        "text": "Book a primary care follow-up visit within 7 days of discharge for high-risk patients, and within 14 days for medium-risk patients, and confirm the appointment before discharge."
+    },
+    {
+        "id": "phone-1",
+        "topic": "post-discharge phone follow-up",
+        "source": "AHRQ Care Transitions",
+        "text": "Contact high-risk patients by phone within 48 hours of discharge to check symptoms, medicine understanding, and whether the follow-up visit is booked."
+    },
+    {
+        "id": "heart-1",
+        "topic": "circulatory heart failure",
+        "source": "American Heart Association Heart Failure Guidance (summary)",
+        "text": "For heart failure, monitor weight, fluid intake, and breathlessness daily, review diuretic medicines, and seek urgent care for rapid weight gain or worsening breathlessness."
+    },
+    {
+        "id": "heart-2",
+        "topic": "circulatory ischemic heart disease",
+        "source": "American Heart Association Guidance (summary)",
+        "text": "For ischemic heart disease, ensure antiplatelet and statin medicines are reconciled at discharge, and arrange cardiology / primary care follow-up."
+    },
+    {
+        "id": "resp-1",
+        "topic": "respiratory COPD asthma",
+        "source": "GOLD COPD / Asthma Guidance (summary)",
+        "text": "For COPD or asthma, check inhaler technique at discharge, review action plan for worsening breathlessness, and arrange respiratory / primary care follow-up."
+    },
+    {
+        "id": "diabetes-1",
+        "topic": "diabetes",
+        "source": "ADA Standards of Care in Diabetes (summary)",
+        "text": "For diabetes, review glucose monitoring, hypoglycaemia signs, and diabetes medicines at discharge, and arrange diabetes / primary care follow-up."
+    },
+    {
+        "id": "prior-1",
+        "topic": "prior inpatient stays",
+        "source": "AHRQ Care Transitions",
+        "text": "Patients with multiple prior inpatient stays need a care transition plan with a named contact, a follow-up visit booked, and a medicine review, because prior stays are a strong predictor of return."
+    },
+    {
+        "id": "redflags-1",
+        "topic": "red flags",
+        "source": "AHRQ Care Transitions",
+        "text": "Give patients clear red-flag instructions: seek emergency care immediately for chest pain, severe breathlessness, or other emergency symptoms, do not wait for a scheduled follow-up call."
+    },
+    {
+        "id": "discharge-1",
+        "topic": "discharge instructions",
+        "source": "AHRQ Care Transitions",
+        "text": "Provide discharge instructions in plain language, covering medicines, follow-up visits, activity, diet, and who to contact with questions, and confirm understanding with teach-back."
+    },
+    {
+        "id": "pneumonia-1",
+        "topic": "respiratory pneumonia",
+        "source": "Respiratory Guidance (summary)",
+        "text": "For pneumonia, ensure antibiotics and follow-up imaging / primary care review are arranged, and advise on return if fever or breathlessness worsens."
+    },
+    {
+        "id": "kidney-1",
+        "topic": "genitourinary kidney",
+        "source": "Kidney Guidance (summary)",
+        "text": "For kidney / urinary conditions, review medicines that affect kidney function, fluid advice, and primary care / nephrology follow-up as appropriate."
+    }
+]
